@@ -35,7 +35,7 @@ Software engineer in Nairobi working across **full-stack development, cloud infr
 
 Internships and collaborations in **software, cloud, or ML engineering** — and happy to talk about health-tech and agri-tech problems in East Africa.
 
-[LinkedIn](https://linkedin.com/in/mathenge-gitahi-a399820b0) · [Email](mailto:mattgitahi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mathenge-gitahi-a399892b0/) · [Email](mailto:mattgitahi@gmail.com)
 
 ---
 
