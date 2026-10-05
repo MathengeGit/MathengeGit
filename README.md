@@ -1,6 +1,6 @@
 ### Hi, I'm Mathenge Gitahi
 
-Software engineer in Nairobi working across **full-stack development, cloud infrastructure, and applied ML**. I build systems end to end — data model, API, interface, deployment — and I'm most interested in ML that has to work under real constraints: limited connectivity, edge hardware, messy data. CS student at Strathmore University.
+Software engineer in Nairobi working across **full-stack development, cloud infrastructure, and applied ML**. I build systems end to end, data model, API, interface, deployment, and I'm most interested in ML that has to work under real constraints: limited connectivity, edge hardware, messy data. CS student at Strathmore University.
 
 ---
 
@@ -9,8 +9,8 @@ Software engineer in Nairobi working across **full-stack development, cloud infr
 | Project | What it does | Stack |
 |---|---|---|
 | **[Vitals Anomaly Detection](https://github.com/MathengeGit/REPO_NAME)** | Detects anomalies in time-series vitals for hypertension and diabetes patients in low-resource settings, with a real-time alerting pipeline. | Python · Isolation Forest · Django · TimescaleDB · React |
-| **[Accident Claims App](https://github.com/MathengeGit/REPO_NAME)** | Mobile insurance claims flow: accident reporting, document upload, live claim tracking, JWT auth and role-based access. | React Native · Node / Express · MongoDB |
-| **SU SMIF Platform** · [live site](https://YOUR-SITE-URL) | Public website and access-controlled internal dashboard for Strathmore's Student Managed Investment Fund: portfolio tracking, charts, member accounts, Postgres row-level security. | Next.js 15 · TypeScript · Supabase · Tailwind · Vercel |
+| **[Accident Claims App](https://github.com/MathengeGit/CrashAssist)** | Mobile insurance claims flow: accident reporting, document upload, live claim tracking, JWT auth and role-based access. | React Native · Node / Express · MongoDB |
+| **SU SMIF Platform** · [live site](https://su-smif.vercel.app/) | Public website and access-controlled internal dashboard for Strathmore's Student Managed Investment Fund: portfolio tracking, charts, member accounts, Postgres row-level security. | Next.js 15 · TypeScript · Supabase · Tailwind · Vercel |
 
 <!-- Replace the two REPO_NAME placeholders and YOUR-SITE-URL. Delete the SU SMIF row if you decide not to show it. -->
 
@@ -29,7 +29,6 @@ Software engineer in Nairobi working across **full-stack development, cloud infr
 #### Experience & credentials
 
 - Software Engineering Intern — Innova, Quants Department
-- [AWS Academy Graduate: Cloud Foundations](https://www.credly.com/badges/YOUR_BADGE_ID)
 - Regular hackathon participant: rapid prototyping of ML and climate-tech ideas under deadline
 
 #### Open to
@@ -40,4 +39,3 @@ Internships and collaborations in **software, cloud, or ML engineering** — and
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=MathengeGit&show_icons=true&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="150" />
